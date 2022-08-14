@@ -1,2 +1,1 @@
-# Python-for-fun
-Interesting and funy things from python
+More intersting things in python coding
