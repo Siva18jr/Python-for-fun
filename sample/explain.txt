@@ -1,1 +1,1 @@
-
+screenshot(510).png is a output of india.py file
